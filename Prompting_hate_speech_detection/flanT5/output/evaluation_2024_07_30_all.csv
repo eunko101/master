@@ -1,0 +1,9 @@
+,filename,prompt,model,dataset,tn,fp,fn,tp,accuracy,precision_class_0,precision_class_1,recall_class_0,recall_class_1,f1_class_0,f1_class_1,macro_f1,weighted_f1
+0,dataset_SX_all_11418_prompt_P1EN_binary_v1_model_flan-t5-xl_2024_07_30.csv,prompt_P1EN_binary,flan-t5-xl,SX,8925,1678,574,241,0.8,0.94,0.13,0.84,0.3,0.89,0.18,0.53,0.84
+2,dataset_SX_all_11418_prompt_P1EN_binary_v1_model_flan-t5-large_2024_07_30.csv,prompt_P1EN_binary,flan-t5-large,SX,9237,1366,643,172,0.82,0.93,0.11,0.87,0.21,0.9,0.15,0.52,0.85
+4,dataset_SX_all_11418_prompt_P1FR_binary_v1_model_flan-t5-xl_2024_07_30.csv,prompt_P1FR_binary,flan-t5-xl,SX,10517,86,792,23,0.92,0.93,0.21,0.99,0.03,0.96,0.05,0.5,0.89
+5,dataset_SX_all_11418_prompt_P1FR_binary_v1_model_flan-t5-large_2024_07_30.csv,prompt_P1FR_binary,flan-t5-large,SX,10225,377,768,47,0.9,0.93,0.11,0.96,0.06,0.95,0.08,0.51,0.88
+1,dataset_SX_all_11418_prompt_P3EN_binary_v2_model_flan-t5-xl_2024_07_30.csv,prompt_P3EN_binary,flan-t5-xl,SX,0,10603,0,815,0.07,,0.07,0.0,1.0,0.0,0.13,0.07,0.01
+6,dataset_SX_all_11418_prompt_P3EN_binary_v2_model_flan-t5-large_2024_07_30.csv,prompt_P3EN_binary,flan-t5-large,SX,10603,0,815,0,0.93,0.93,,1.0,0.0,0.96,0.0,0.48,0.89
+3,dataset_SX_all_11418_prompt_P3FR_binary_v2_model_flan-t5-large_2024_07_30.csv,prompt_P3FR_binary,flan-t5-large,SX,0,10603,0,815,0.07,,0.07,0.0,1.0,0.0,0.13,0.07,0.01
+7,dataset_SX_all_11418_prompt_P3FR_binary_v2_model_flan-t5-xl_2024_07_30.csv,prompt_P3FR_binary,flan-t5-xl,SX,10603,0,815,0,0.93,0.93,,1.0,0.0,0.96,0.0,0.48,0.89
