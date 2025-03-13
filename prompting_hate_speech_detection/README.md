@@ -1,3 +1,10 @@
+# About This Project
+This repository contains code developed during an internship on Hate Speech Detection with Prompting LLM, organized by Pôle d’Expertise de la Régulation Numérique (PEReN) – Center of Expertise for Digital Platform Regulation.
+
+The objective of this project is to explore various prompting strategies across different hate speech datasets and compare the performance of multiple large language models (LLMs).
+
+The current implementation focuses on FlanT5.
+
 # Scripts
 ## `inference.py`
 This script generates prompts and runs inference on the model FlanT5.
